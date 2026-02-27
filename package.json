@@ -1,0 +1,12 @@
+{
+  "name": "syllabus-to-notes",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.43.0"
+  },
+  "scripts": {
+    "dev": "bun index.js"
+  }
+}
